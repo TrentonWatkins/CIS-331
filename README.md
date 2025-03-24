@@ -6,4 +6,4 @@ This website is a project for CIS-331 designed using HTML, JavaScript, and CSS f
 - Seth Buchanan: Code Inspector and Professional Rizzler 
 - Heathe Hernandez: Profesinal Heavy Circal Lifter, Mean Boy, and Huge nutz
 - Shahryar Shah: Sigma Team Leader and Website Designer
-- Trenton Watkins: Senior Programer, AI Developer, and Indendured Servent to Dr. Azab
+- Trenton Watkins: Senior Programer, AI Developer, and Indentured Servent to Dr. Azab
